@@ -29,4 +29,4 @@ It can very rarely double-split after seemingly random maps.
 
 # Other
 
-This is a very basic autosplitter which i quickly threw together when i was running the game so it can only split right now.
+It doesn't have auto start or auto end.
