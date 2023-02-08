@@ -29,4 +29,4 @@ It can very rarely double-split after seemingly random maps.
 
 # Other
 
-It doesn't have auto start or auto end.
+It doesn't have auto start or auto end, just general splitting during level transitions.
